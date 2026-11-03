@@ -54,9 +54,9 @@ Applying data science and statistical techniques (chemometrics, machine learning
 
 ### Tech stack
 
-**AI & Data**
+**AI & Data** 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,postgres" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,postgres" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" height="48" />
