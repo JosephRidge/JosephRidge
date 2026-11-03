@@ -31,4 +31,9 @@ See the pinned repositories below.
 
 ### Work with me
 AI builds, automation, ICT support and corporate training via **Jayafrique**
-📧 [jridgeogada@gmail.com](mailto:jridgeogada@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/josephridge/) · 🌐 [josephridgeo.web.app](https://josephridgeo.web.app/)
+[jridgeogada@gmail.com](mailto:jridgeogada@gmail.com) · [LinkedIn](https://www.linkedin.com/in/josephridge/) · 🌐 [josephridgeo.web.app](https://josephridgeo.web.app/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosephRidge/JosephRidge/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/JosephRidge/JosephRidge/output/snake.svg" />
+</picture>
