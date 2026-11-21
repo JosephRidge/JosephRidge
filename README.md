@@ -58,7 +58,7 @@ jr = {
 ### Currently
 
 - Researching **graph RAG** for scientific data
-- Building **local, privacy-first AI pipelines** for organisations (private client work)
+- Building **local, privacy-first AI pipelines** for organisations 
 - Teaching **AI for Software Developers**: Python, Ollama, RAG, agents, n8n
 
 ---
