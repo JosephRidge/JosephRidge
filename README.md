@@ -2,11 +2,11 @@
 
 # Hi, I'm Joseph Ridge (JR)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Tech+Researcher;Frugal%2C+locally+deployable+AI;NMR+%2B+machine+learning+research" alt="AI Engineer & Tech Researcher" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Tech+Researcher;Sovereign+AI+for+chemometrics;Local+LLMs+%7C+RAG+%7C+Agents" alt="AI Engineer & Tech Researcher" />
 
 **AI Engineer & Tech Researcher · Nairobi, Kenya 🇰🇪**
 
-*Building frugal, locally deployable AI for African agrifood and institutions.*
+*Building frugal, locally deployable AI that organisations and labs can own.*
 
 <a href="https://www.linkedin.com/in/josephridge/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jridgeogada@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,13 +19,13 @@
 
 ### About
 
-I build AI systems that run on modest hardware and open-source tooling: local LLMs, RAG and automation that organisations can own and maintain. As a researcher, I apply chemometrics and machine learning to NMR spectroscopy for food authentication. I also teach AI and LLM systems to software developers.
+I build AI systems that run on modest hardware with open-source tooling: local LLMs, RAG and agents that organisations can own and maintain. As a researcher, I work on **sovereign AI for chemometrics**: locally deployed, data-owned AI tools for chemical analysis, starting with NMR spectroscopy. I also teach AI and LLM systems to software developers.
 
 ```python
 jr = {
     "role": ["AI Engineer", "Tech Researcher"],
-    "research": "NMR spectroscopy + ML for honey authentication",
-    "building": ["local LLMs", "RAG (traditional, graph, hybrid)", "agents", "automation"],
+    "research": "sovereign AI for chemometrics (NMR spectroscopy)",
+    "building": ["local LLMs", "RAG (traditional + graph)", "agents"],
     "philosophy": "frugal, locally deployable, open-source",
     "based_in": "Nairobi, Kenya",
 }
@@ -35,11 +35,11 @@ jr = {
 
 ### Research
 
-**¹H NMR for honey authentication** · iLabAfrica, Strathmore University, with ICube Laboratory, University of Strasbourg
-- Comparing 400 MHz and 700 MHz ¹H NMR spectra for honey classification with PLS-DA, including sensitivity to spectral linewidth
+**¹H NMR chemometrics for honey authentication** · iLabAfrica, Strathmore University, with ICube Laboratory, University of Strasbourg
+- Comparing 400 MHz and 700 MHz ¹H NMR for classifying honey type (honey bee vs. stingless bee) with PCA and PLS-DA, validated by repeated k-fold cross-validation, bootstrap and permutation testing
+- Studying how spectral linewidth affects classification accuracy
 - Paper *submitted* to IEEE CAFE 2026 <!-- update to "accepted" / add link once confirmed -->
-- **Work in progress:** graph RAG approaches for querying scientific (NMR) data
-- **Long-term vision:** HoneyID, low-cost, edge-deployable honey authentication for African agrifood markets
+- **In progress:** graph RAG for querying scientific (NMR) data
 
 ---
 
@@ -47,21 +47,19 @@ jr = {
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Livestock methane RAG advisor**](https://github.com/JosephRidge/REPO_NAME) | MSc project: a RAG advisory system that answers questions on livestock methane emissions from research literature | Python, local LLM, vector DB |
-| [**Self-hosted teaching assistant**](https://github.com/JosephRidge/REPO_NAME) | A course assistant that answers student questions from lecture material, fully self-hosted | LangChain, ChromaDB, SentenceTransformers, React |
-| [**Kenya health news pipeline**](https://github.com/JosephRidge/REPO_NAME) | Automated workflow that collects the latest Kenya health news, loads it to Google Sheets and emails a digest | n8n, Google Sheets |
-| [**IoT disaster prediction platform**](https://github.com/JosephRidge/REPO_NAME) | Sensor-driven early-warning platform for disaster prediction | LoRaWAN, IoT, Python |
-| [**Wildlife & livestock tracking**](https://github.com/JosephRidge/REPO_NAME) | Geospatial tracking of livestock and wildlife to support rangers | Geospatial, web mapping |
+| [**Honey-NMR**](https://github.com/JosephRidge/Honey-NMR) | Reproducible chemometrics pipeline for the research above, from FID processing and line broadening to PLS-DA classification, on open Zenodo data | Python, scikit-learn, pandas |
+| [**Farmer advisory LLM**](https://github.com/JosephRidge/FarmerVice) | LLM-based advisory assistant for farmers, with a companion API | Python, LLM <!-- refine: model, data, API framework --> |
+| [**RAG: traditional & graph**](https://github.com/JosephRidge/RAG_Basics) | Iterative builds of retrieval-augmented generation, from vector search to graph-based RAG, running on local models | Python, ChromaDB, Ollama |
 
-<!-- For each row: replace REPO_NAME, and add one concrete outcome if you have it (users, accuracy, time saved). -->
+<!-- Update links after renaming RAG_Basics and merging FarmerVice + FarmerAdvisory-API -->
 
 ---
 
 ### Currently
 
 - Researching **graph RAG** for scientific data
+- Building **local, privacy-first AI pipelines** for organisations (private client work)
 - Teaching **AI for Software Developers**: Python, Ollama, RAG, agents, n8n
-- Building document-intelligence and automation systems for organisations
 
 ---
 
